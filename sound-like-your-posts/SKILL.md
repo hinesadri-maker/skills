@@ -27,7 +27,7 @@ Either (a) you draft in the user's voice because a voice file already exists, or
 ## Step 1 — Find or build the voice file
 
 
-Look for a file named `voice.md`, `about-me.md`, or `[name].md` (e.g. `ruben.md`) in the working folder or uploads. Read it completely before writing anything.
+Look for a file named `voice.md`, `about-me.md`, or `[name].md` (e.g. `adrienne.md`) in the working folder or uploads. Read it completely before writing anything.
 
 
 If no voice file exists, build one now. Ask the user for **5–10 of their actual published posts** — not drafts, not old AI output, not "something in the style of." The real, shipped thing. Then read across all of them and extract the following, with real quoted examples pulled from their writing:
