@@ -1,6 +1,6 @@
 ---
 name: "the-team"
-description: "\Run three agents as a newsroom — a Writer, an Editor, and a Fact-checker — that draft, critique, and verify in parallel and argue until the writing survives with zero flags. This is the level above a single self-review loop, for the pieces that matter most. Best run in Claude Cowork against the user's files. Use for high-stakes writing the user wants bulletproof: a newsletter, a launch post, a client email, a public announcement. Trigger whenever the user says 'run the team', 'use the swarm', 'writer editor fact-checker', 'spawn agents to work on this', or wants the strongest possible version of a piece. For a lighter single-agent loop, use red-pen instead.\"
+description: "Run three agents as a newsroom (a Writer, an Editor, and a Fact-checker) that draft, critique, and verify in parallel and argue until the writing survives with zero flags. This is the level above a single self-review loop, for the pieces that matter most. Best run in Claude Cowork against the user's files. Use for high-stakes writing the user wants bulletproof: a newsletter, a launch post, a client email, a public announcement. Trigger whenever the user says 'run the team', 'use the swarm', 'writer editor fact-checker', 'spawn agents to work on this', or wants the strongest possible version of a piece. For a lighter single-agent loop, use red-pen instead."
 ---
 
 # The Team
