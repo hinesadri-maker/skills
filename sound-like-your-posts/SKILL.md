@@ -1,6 +1,6 @@
 ---
 name: "sound-like-your-posts"
-description: \"Load the user's real writing voice from their own published posts, then hold that voice for the entire session so every draft starts sounding like a specific human instead of the average of the internet. Use this at the START of any writing task the user will publish or send — captions, newsletters, emails, LinkedIn posts, replies, announcements. Trigger whenever the user says 'write this in my voice', 'make it sound like me', 'use my voice file', 'sound like my posts', references an 'about me' file or a [name].md file, or begins any drafting task where the output should read as them. Run this before any other writing skill — it is the foundation the others build on.\"
+description: Load the user's real writing voice from their own published posts, then hold that voice for the entire session so every draft starts sounding like a specific human instead of the average of the internet. Use this at the START of any writing task the user will publish or send — captions, newsletters, emails, LinkedIn posts, replies, announcements. Trigger whenever the user says 'write this in my voice', 'make it sound like me', 'use my voice file', 'sound like my posts', references an 'about me' file or a [name].md file, or begins any drafting task where the output should read as them. Run this before any other writing skill — it is the foundation the others build on.
 ---
 
 # Sound like your posts
